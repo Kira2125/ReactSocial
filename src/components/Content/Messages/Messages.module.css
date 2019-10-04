@@ -1,0 +1,9 @@
+.messages {
+    display: grid;
+    grid-template-columns: 4fr 8fr;
+    color: grey;
+    padding: 40px;
+}
+
+
+
