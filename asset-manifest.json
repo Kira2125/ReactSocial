@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactSocial/static/css/main.ad3128b3.chunk.css",
+    "main.js": "/ReactSocial/static/js/main.a7b0663b.chunk.js",
+    "main.js.map": "/ReactSocial/static/js/main.a7b0663b.chunk.js.map",
+    "runtime-main.js": "/ReactSocial/static/js/runtime-main.f62263b9.js",
+    "runtime-main.js.map": "/ReactSocial/static/js/runtime-main.f62263b9.js.map",
+    "static/js/2.c16e616c.chunk.js": "/ReactSocial/static/js/2.c16e616c.chunk.js",
+    "static/js/2.c16e616c.chunk.js.map": "/ReactSocial/static/js/2.c16e616c.chunk.js.map",
+    "index.html": "/ReactSocial/index.html",
+    "precache-manifest.50dcd36e0ebe7434cc73c43c018ae7e2.js": "/ReactSocial/precache-manifest.50dcd36e0ebe7434cc73c43c018ae7e2.js",
+    "service-worker.js": "/ReactSocial/service-worker.js",
+    "static/css/main.ad3128b3.chunk.css.map": "/ReactSocial/static/css/main.ad3128b3.chunk.css.map",
+    "static/media/logo.png": "/ReactSocial/static/media/logo.c5c60cfa.png"
+  }
+}
